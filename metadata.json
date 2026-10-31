@@ -1,0 +1,6 @@
+{
+  "name": "مرصد عُمان الجغرافي والذكاء الاصطناعي - Oman GeoIntelligence",
+  "description": "المنصة الذكية لرصد وتوليد خرائط سلطنة عُمان الدقيقة، تحليل الظواهر الطبيعية والبشرية، تحسين الصور الجوية والفضائية، وبوابة المدير ذات الهيمنة الكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
